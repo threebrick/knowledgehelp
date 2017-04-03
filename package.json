@@ -1,0 +1,27 @@
+{
+  "name": "knowledgehelp",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threebrick/knowledgehelp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threebrick/knowledgehelp/issues"
+  },
+  "homepage": "https://github.com/threebrick/knowledgehelp#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "botbuilder": "^3.7.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "restify": "^4.3.0",
+    "util": "^0.10.3"
+  }
+}
